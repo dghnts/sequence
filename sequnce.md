@@ -49,6 +49,14 @@ $a_n=ar^{n-1}$ {.fragment fade-in}
 #### 初項$a$，公比$r$の等比数列の第$n$項までの和$S_n$ {.fragment fade-in}
 
 $S_n=\dfrac{a(r^n-1)}{r-1}$ {.fragment fade-in}
+
+--
+
+## $\Sigma$の公式
+
+1. $\displaystyle{\sum_{k=1}^{n}}c=cn$
+1. 
+
 ---
 
 
